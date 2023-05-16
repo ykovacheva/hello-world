@@ -4,4 +4,6 @@ This is an example repository for the Git tutorial on https://www.w3schools.com
 
 Making changes.
 
+Makes new changes.
+
 This repository is built step by step in the tutorial.
